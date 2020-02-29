@@ -1,3 +1,6 @@
-# datachallenge
+# Regional Traffic Analysis in the D.C. Metro Area
 
-Eventually some useful information should be here or something.
+Team: DC20080
+Dataset: Regional Traffic Data
+
+Ryan Eilers, Jason Henry, & Deon Odom
